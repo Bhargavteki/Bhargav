@@ -11,6 +11,18 @@
 **this is an bold sentence**
 
 ***this is aboth italic and bold sentence***
+ 
+1.ordered list 
 
-main list
- - list
+  1. list
+ 
+  2. second list
+ 
+ 2.unordered list
+ 
+ - hi
+ - there
+
+3.Nested list
+ 1. second nested list
+ 2. third nested list
