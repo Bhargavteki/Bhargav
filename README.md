@@ -27,8 +27,9 @@
   - second nested list
     - third nested list
 
-4.task list
-- [google] (www.google.com) 
-- [] (https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Chief_Minister_of_Andhra_Pradesh%2C_Shri_Y.S._Jagan_Mohan_Reddy.jpg)
+
+ ![google] (www.google.com) 
+ 
+ ![] (https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Chief_Minister_of_Andhra_Pradesh%2C_Shri_Y.S._Jagan_Mohan_Reddy.jpg)
 
 
