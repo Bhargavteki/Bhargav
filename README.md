@@ -35,7 +35,7 @@
 
  [google](www.google.com) 
  
- ![](https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Chief_Minister_of_Andhra_Pradesh%2C_Shri_Y.S._Jagan_Mohan_Reddy.jpg)
+ ![](https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/05/29/Pictures/_ec6504d4-a1a1-11ea-86ef-27b876091917.jpg)
 
 name|roll
 -|-
